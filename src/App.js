@@ -214,7 +214,7 @@ function App() {
 
       <div className="bg-[#f8f8f8]">
         <div className="max-w-screen-2xl m-auto">
-          <div className="flex justify-between space-x-4 pt-16">
+          <div className="flex justify-between space-x-4 py-16">
             <div className="flex flex-col flex-1 rounded-lg py-10 shadow-lg items-center bg-white">
               <div className="text-secondary-color mb-4 text-xl">
                 Assessment Activity
